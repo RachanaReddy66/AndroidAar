@@ -1,0 +1,2 @@
+# AndroidAar
+Android library
